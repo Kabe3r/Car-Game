@@ -1,9 +1,13 @@
+body {
+      margin: 0;
+      padding: 0;
+      background: black;
+}
 .hide {
       display: none;
 }
 
 .score {
-      background-color: black;
       height: 100px;
       text-align: center;
       color: white;
